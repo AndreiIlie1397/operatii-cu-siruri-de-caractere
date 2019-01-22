@@ -1,0 +1,10 @@
+16 hocus 5 pocus preparatus 14 
+hocus pocus 10 preparatus 
+hocus 5 pocus preparatus 
+
+
+Cuvantul 'ana' se gaseste in text de 0 ori. 
+
+Cuvantul 'hocus' se gaseste in text de 3 ori. 
+
+Cuvantul 'pocus' se gaseste in text de 3 ori. 
